@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+
+- 🌱 I’m currently learning Laravel
+- 💬 Ask me about Android
+
+<p align="left">
+<a href="https://github.com/purwasadr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=purwasadr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=purwasadr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/purwa-shadr-al-urwa-91b465199/">LinkedIn</a>
 <!--
 **purwasadr/purwasadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
