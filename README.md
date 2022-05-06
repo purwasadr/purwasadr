@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning NextJs
 - 💬 Ask me about Android
 
 <p align="left">
