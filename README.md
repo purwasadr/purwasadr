@@ -13,7 +13,7 @@
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/purwa-shadr-al-urwa-91b465199/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/purwasadr">LinkedIn</a>
 <!--
 **purwasadr/purwasadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
