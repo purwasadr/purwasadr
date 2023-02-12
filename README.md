@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning NextJs
-- 💬 Ask me about Android
+- 💬 Ask me about Android and Front-End Web
 
 <p align="left">
 <a href="https://github.com/purwasadr">
