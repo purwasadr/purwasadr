@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning NextJs
-- 💬 Ask me about Android and Front-End Web
+- 🌱 Currently focus on WebVR and Cloud Computing
+- 💬 Ask me about Tech
 
 <p align="left">
 <a href="https://github.com/purwasadr">
